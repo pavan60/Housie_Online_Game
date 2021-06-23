@@ -1,0 +1,34 @@
+/* html,
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+} */
+
+.PT_Title h1 {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 3rem;
+}
+.PT_Main {
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+}
+.PT_Sub1 {
+  height: 30%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.PT_Sub2 {
+  height: 70%;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

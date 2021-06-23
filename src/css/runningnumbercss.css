@@ -1,0 +1,18 @@
+.RunningNumber_div {
+  height: 100px;
+  width: 100px;
+
+  border: 2px solid;
+  border-radius: 50px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.RunningNumber_div h2 {
+  margin: 0px;
+  padding: 0px;
+
+  text-align: center;
+  font-size: 60px;
+}
